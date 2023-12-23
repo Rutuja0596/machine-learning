@@ -1,4 +1,4 @@
-# Diabetes
+# Output
 
 ![diab1](https://github.com/Rutuja0596/machine-learning/assets/55682857/2e08ca09-8791-44b8-843f-ab8befa0ede0)
 
