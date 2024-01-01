@@ -6,9 +6,6 @@
 
 ![diab3](https://github.com/Rutuja0596/machine-learning/assets/55682857/2299e512-8277-4d9b-a4d0-34ef69444160)
 
-![diab_db](https://github.com/Rutuja0596/machine-learning/assets/55682857/2c613e06-3392-4c3b-b228-7ef25633e7c4)
-
-
 # Data Stored in Firebase
 
 ![diab_db](https://github.com/Rutuja0596/machine-learning/assets/55682857/2c613e06-3392-4c3b-b228-7ef25633e7c4)
