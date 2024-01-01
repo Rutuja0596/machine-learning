@@ -14,6 +14,7 @@
 ![diab_db](https://github.com/Rutuja0596/machine-learning/assets/55682857/2c613e06-3392-4c3b-b228-7ef25633e7c4)
 
 # Heart
+![heart](https://github.com/Rutuja0596/machine-learning/assets/55682857/651859b7-8401-4d94-b4e7-10704049ae9a)
 
 ![heart1](https://github.com/Rutuja0596/machine-learning/assets/55682857/cb5b34c3-4df2-4881-99db-e4a45fd82ae2)
 
